@@ -1,5 +1,1 @@
-sample1
-one!
-
-more thext here
-add text dev
+stash lecture change f1
