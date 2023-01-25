@@ -1,4 +1,2 @@
 sample1
 one!
-
-adding some text
